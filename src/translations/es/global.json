@@ -1,0 +1,8 @@
+{
+    "header":{
+        "message": "hola mundo"
+    },
+    "home":{
+        "Ask_Question": "Pregúntale a Quest"
+    }
+}
